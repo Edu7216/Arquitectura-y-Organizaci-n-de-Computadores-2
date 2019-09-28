@@ -1,0 +1,1 @@
+﻿En la carpeta RAM pruebas están las RAM de instrucciones y datos de los dos programas descritos en la memoria, pero en los fuentes fuera de dicha carpeta están ya incluidas las RAM del segundo programa.

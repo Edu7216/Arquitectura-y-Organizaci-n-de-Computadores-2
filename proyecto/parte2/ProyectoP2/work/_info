@@ -1,0 +1,1359 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/eduar_000/Desktop/AOC2/proyecto/Proyecto
+Eadder32
+Z0 w1490265944
+Z1 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z2 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z3 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z6 dC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2
+Z7 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/adder32.vhd
+Z8 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/adder32.vhd
+l0
+L33
+Vez3M66R73icgd5;^1]n[o0
+!s100 FdnT[E<XL_UiCO?C2]0L[0
+Z9 OP;C;10.4a;61
+32
+Z10 !s110 1526459755
+!i10b 1
+Z11 !s108 1526459754.000000
+Z12 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/adder32.vhd|
+Z13 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/adder32.vhd|
+!i113 1
+Z14 o-work work -2002 -explicit -O0
+Z15 tExplicit 1
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 adder32 0 22 ez3M66R73icgd5;^1]n[o0
+l41
+L39
+V9Th@5ho2TokL`O:o?GOnS2
+!s100 6lRC`O=[EbJ`<@kAJ`3P^1
+R9
+32
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Ealu
+Z16 w1490265945
+R1
+R2
+R3
+R4
+R5
+R6
+Z17 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/ALU.vhd
+Z18 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/ALU.vhd
+l0
+L33
+V@RAaWJGEJU]dl42V5llc>2
+!s100 E`1`MV@OJiDZHNeDL6[b81
+R9
+32
+R10
+!i10b 1
+Z19 !s108 1526459755.000000
+Z20 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/ALU.vhd|
+Z21 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/ALU.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 3 alu 0 22 @RAaWJGEJU]dl42V5llc>2
+l42
+L40
+V>=Hj8m1iN?O16iTEo8A]m2
+!s100 X[SimW`d>R`c<i=CA]RP[1
+R9
+32
+R10
+!i10b 1
+R19
+R20
+R21
+!i113 1
+R14
+R15
+Ebanco_ex
+Z22 w1525266713
+R4
+R5
+R6
+Z23 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_EX.vhd
+Z24 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_EX.vhd
+l0
+L32
+V@RfjeF]l^fE5dcbWdO?C>0
+!s100 A^:I[6_9gkVmU[4:EIGdB1
+R9
+32
+R10
+!i10b 1
+R19
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_EX.vhd|
+Z26 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_EX.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_ex 0 22 @RfjeF]l^fE5dcbWdO?C>0
+l70
+L68
+VEh4g2j0^_IU9BK@4O3OnU0
+!s100 FB7U:YS=J<XRoXfWPH<oo3
+R9
+32
+R10
+!i10b 1
+R19
+R25
+R26
+!i113 1
+R14
+R15
+Ebanco_id
+Z27 w1490265946
+R4
+R5
+R6
+Z28 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_ID.vhd
+Z29 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_ID.vhd
+l0
+L8
+VGN8CheDVL7he`UbIi2Wd:1
+!s100 _m=b:l1iQPCbR2C>j9LbV3
+R9
+32
+Z30 !s110 1526459756
+!i10b 1
+Z31 !s108 1526459756.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_ID.vhd|
+Z33 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_ID.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_id 0 22 GN8CheDVL7he`UbIi2Wd:1
+l20
+L18
+VW5?m_b>=NBGb[]3OH>2F01
+!s100 ;RP9P;j3>_]lU`h6Xfm1@3
+R9
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R14
+R15
+Ebanco_mem
+Z34 w1521060258
+R4
+R5
+R6
+Z35 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_MEM.vhd
+Z36 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_MEM.vhd
+l0
+L32
+VPbza`m>gKYKm:i`3?Q2_N0
+!s100 _f]LTOQd[52]VX6RY7hL:0
+R9
+32
+R30
+!i10b 1
+R31
+Z37 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_MEM.vhd|
+Z38 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_MEM.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 banco_mem 0 22 Pbza`m>gKYKm:i`3?Q2_N0
+l54
+L52
+V@14DKN4R5m`n^;_f_[EgC1
+!s100 L3PLMMzSnSf5lMERo4k?l3
+R9
+32
+R30
+!i10b 1
+R31
+R37
+R38
+!i113 1
+R14
+R15
+Ebanco_wb
+Z39 w1521060257
+R4
+R5
+R6
+Z40 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_WB.vhd
+Z41 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_WB.vhd
+l0
+L32
+VJo9>4U<6m0KNW@UmmklOY2
+!s100 JGb3haQGFV5CHWgzfChMY3
+R9
+32
+Z42 !s110 1526459757
+!i10b 1
+R31
+Z43 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_WB.vhd|
+Z44 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_WB.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 8 banco_wb 0 22 Jo9>4U<6m0KNW@UmmklOY2
+l49
+L47
+VjKQ4_CS6D4@Z@GMkAePmJ3
+!s100 ?^XIZeBV;I]WDim1HT2QW1
+R9
+32
+R42
+!i10b 1
+R31
+R43
+R44
+!i113 1
+R14
+R15
+Ebreg
+Z45 w1521060254
+R3
+R2
+R4
+R5
+R6
+Z46 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/BReg.vhd
+Z47 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/BReg.vhd
+l0
+L36
+VVn_dFT2n6?o7C]gJBmjFh1
+!s100 _JHQejW;DO9M]5ihRHD:S1
+R9
+32
+R42
+!i10b 1
+Z48 !s108 1526459757.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/BReg.vhd|
+Z50 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/BReg.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 4 breg 0 22 Vn_dFT2n6?o7C]gJBmjFh1
+l55
+L50
+VI[Z5If8?9h6=Xi]DkI6@G2
+!s100 g5j38U]=Co;UeF7AK1FOz2
+R9
+32
+R42
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R14
+R15
+Ecounter
+Z51 w1526041892
+R1
+R2
+R3
+R4
+R5
+R6
+Z52 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter.vhd
+Z53 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter.vhd
+l0
+L27
+V`R3b1Poih@<jo[W8kO<aK1
+!s100 0zAB8LHV7=G<JB>>=@POn0
+R9
+32
+Z54 !s110 1526459762
+!i10b 1
+Z55 !s108 1526459762.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter.vhd|
+Z57 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 7 counter 0 22 `R3b1Poih@<jo[W8kO<aK1
+l38
+L36
+Vd8IM>cN05gejKO_^HJM[P0
+!s100 9>1HLl`j0N@UGO>KPG07f1
+R9
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R14
+R15
+Ecounter_2bits
+R51
+R1
+R2
+R3
+R4
+R5
+R6
+Z58 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter_2bits.vhd
+Z59 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter_2bits.vhd
+l0
+L27
+V]6MlL4o1TgPd[7B]ZWD3z2
+!s100 Vf_jfMQXQ@<_D2ISHdWD<3
+R9
+32
+Z60 !s110 1526459763
+!i10b 1
+Z61 !s108 1526459763.000000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter_2bits.vhd|
+Z63 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter_2bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R1
+R2
+R3
+R4
+R5
+DEx4 work 13 counter_2bits 0 22 ]6MlL4o1TgPd[7B]ZWD3z2
+l36
+L34
+VM86^GMS5=jOOXK4E9785<2
+!s100 T85fP;@I;e?]IX@baHF4?3
+R9
+32
+R60
+!i10b 1
+R61
+R62
+R63
+!i113 1
+R14
+R15
+Eext_signo
+Z64 w1490265950
+R4
+R5
+R6
+Z65 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Ext_signo.vhd
+Z66 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Ext_signo.vhd
+l0
+L32
+VXf93dK=jfGbHU]2Ef7mDW1
+!s100 =jQT7hQEW^Q9VGDz6>Dnd0
+R9
+32
+Z67 !s110 1526459758
+!i10b 1
+R48
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Ext_signo.vhd|
+Z69 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Ext_signo.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 9 ext_signo 0 22 Xf93dK=jfGbHU]2Ef7mDW1
+l39
+L37
+Va5[d?zV7L`XBX<c7AmWfn0
+!s100 LK3IFGmMiXJPmL2zW;mXf2
+R9
+32
+R67
+!i10b 1
+R48
+R68
+R69
+!i113 1
+R14
+R15
+Efpp_add_sub
+Z70 w1521060290
+R1
+R4
+R5
+R6
+Z71 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/fpadd.vhd
+Z72 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/fpadd.vhd
+l0
+L23
+Vh6>Y6=15hUbQES8O12`?V2
+!s100 Wih?H:cXCn^nSZbl@A?F01
+R9
+32
+R67
+!i10b 1
+Z73 !s108 1526459758.000000
+Z74 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/fpadd.vhd|
+Z75 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/fpadd.vhd|
+!i113 1
+R14
+R15
+Aarch
+R1
+R4
+R5
+DEx4 work 11 fpp_add_sub 0 22 h6>Y6=15hUbQES8O12`?V2
+l50
+L34
+VE5O6d7gKcSo?Uhc]T`Bf13
+!s100 6Ec:Y5>c;W@ADHSn2Wm4i2
+R9
+32
+R67
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R14
+R15
+Emc_datos
+Z76 w1526039450
+R3
+R2
+R4
+R5
+R6
+Z77 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MC_datos.vhd
+Z78 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MC_datos.vhd
+l0
+L25
+V]V5h7AQ06dl>incKV_^So3
+!s100 4:<9;ZCEO@JQ5IV^LCbB60
+R9
+32
+R60
+!i10b 1
+R61
+Z79 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MC_datos.vhd|
+Z80 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MC_datos.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 8 mc_datos 0 22 ]V5h7AQ06dl>incKV_^So3
+l100
+L49
+Vb:^WPml?o1eIBZJf16K_Y3
+!s100 ^^Ei8Sc2>][RoW<[?[EzZ3
+R9
+32
+R60
+!i10b 1
+R61
+R79
+R80
+!i113 1
+R14
+R15
+Emd_cont
+Z81 w1526036185
+R2
+R3
+R4
+R5
+R6
+Z82 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_cont.vhd
+Z83 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_cont.vhd
+l0
+L25
+Vzl3o[53=83<cJIC92H46W0
+!s100 XIeWi`G<kIj6z<9_i?_C_2
+R9
+32
+R60
+!i10b 1
+R61
+Z84 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_cont.vhd|
+Z85 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_cont.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R4
+R5
+DEx4 work 7 md_cont 0 22 zl3o[53=83<cJIC92H46W0
+l75
+L39
+V1eQ@QA:ZHD5c<V7aa]QQZ3
+!s100 GdJC[`BEF56N2f8[AW4GM2
+R9
+32
+R60
+!i10b 1
+R61
+R84
+R85
+!i113 1
+R14
+R15
+Emd_mas_mc
+Z86 w1526036155
+R2
+R3
+R1
+R4
+R5
+R6
+Z87 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_mas_MC.vhd
+Z88 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_mas_MC.vhd
+l0
+L21
+VC34<3R<@ldj3bG7C_jffD3
+!s100 om[]8PO6=QCAD8OgA2aR61
+R9
+32
+Z89 !s110 1526459764
+!i10b 1
+Z90 !s108 1526459764.000000
+Z91 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_mas_MC.vhd|
+Z92 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_mas_MC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R2
+R3
+R1
+R4
+R5
+DEx4 work 9 md_mas_mc 0 22 C34<3R<@ldj3bG7C_jffD3
+l83
+L33
+V6RfCeY2zAA>h2Hh>c]nCc1
+!s100 mOfd=EgAH3AIKW3zQhh=12
+R9
+32
+R89
+!i10b 1
+R90
+R91
+R92
+!i113 1
+R14
+R15
+Ememoriaram_i
+Z93 w1527949493
+R3
+R2
+R4
+R5
+R6
+Z94 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_I.vhd
+Z95 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_I.vhd
+l0
+L32
+VYbZkhW9WoEbhnN`5@J6=`0
+!s100 Q@4V61X_V]:iAW=8FaYo:2
+R9
+32
+Z96 !s110 1527949650
+!i10b 1
+Z97 !s108 1527949650.000000
+Z98 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_I.vhd|
+Z99 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_I.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+DEx4 work 12 memoriaram_i 0 22 YbZkhW9WoEbhnN`5@J6=`0
+l60
+L41
+V^l:k7WgjQh7X3keW?k2l`0
+!s100 ^0RdggEj`VX8?`1Bm1ahB1
+R9
+32
+R96
+!i10b 1
+R97
+R98
+R99
+!i113 1
+R14
+R15
+Emips_segmentado
+Z100 w1527690889
+R4
+R5
+R6
+Z101 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Mips_segmentado_2018.vhd
+Z102 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Mips_segmentado_2018.vhd
+l0
+L17
+Ve<S3UnMGALX==76So=gmA3
+!s100 DJcDbJgiN<BoEZ@019[2E2
+R9
+32
+Z103 !s110 1527690905
+!i10b 1
+Z104 !s108 1527690905.000000
+Z105 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Mips_segmentado_2018.vhd|
+Z106 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Mips_segmentado_2018.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 15 mips_segmentado 0 22 e<S3UnMGALX==76So=gmA3
+l296
+L23
+V6`?[m57HWhNGjCI:Mhf9g1
+!s100 2_^mem37D:bV:4bY>L9cg2
+R9
+32
+R103
+!i10b 1
+R104
+R105
+R106
+!i113 1
+R14
+R15
+Emux2_1
+Z107 w1490265952
+R4
+R5
+R6
+Z108 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1.vhd
+Z109 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1.vhd
+l0
+L32
+V3ffz>_Pd`0UGm<RQ39N2<1
+!s100 [VRg3F0=o?Z:]Y[CCZJje0
+R9
+32
+Z110 !s110 1526459759
+!i10b 1
+Z111 !s108 1526459759.000000
+Z112 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1.vhd|
+Z113 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 6 mux2_1 0 22 3ffz>_Pd`0UGm<RQ39N2<1
+l41
+L39
+VmO@O?FljQV@CmH;ACBYgj1
+!s100 zIQT7B^e_I4Qli6JQET>o2
+R9
+32
+R110
+!i10b 1
+R111
+R112
+R113
+!i113 1
+R14
+R15
+Emux2_1_1bit
+Z114 w1523953048
+R4
+R5
+R6
+Z115 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1_1bit.vhd
+Z116 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1_1bit.vhd
+l0
+L32
+V060>OzV]bTbUC>7a2K3X03
+!s100 4^2DD43[f29;BMK6h7a];1
+R9
+32
+R110
+!i10b 1
+R111
+Z117 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1_1bit.vhd|
+Z118 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1_1bit.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 11 mux2_1_1bit 0 22 060>OzV]bTbUC>7a2K3X03
+l41
+L39
+V[2>cN_XXm;13MK2Zn[cZn0
+!s100 F`4W;^DHcP0YP5YG9hFQ:3
+R9
+32
+R110
+!i10b 1
+R111
+R117
+R118
+!i113 1
+R14
+R15
+Emux2_5bits
+Z119 w1490306694
+R4
+R5
+R6
+Z120 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_5bits.vhd
+Z121 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_5bits.vhd
+l0
+L32
+VhCRR<1Cbl2c7k1]J0>8dM2
+!s100 GnzQIA<O?`7V;D;ZbXOiA0
+R9
+32
+R110
+!i10b 1
+R111
+Z122 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_5bits.vhd|
+Z123 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_5bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 10 mux2_5bits 0 22 hCRR<1Cbl2c7k1]J0>8dM2
+l41
+L39
+V[I3_:5o?GGJmF][39YDQA1
+!s100 =@Dj[OG[:JJ:5PSjamb5A3
+R9
+32
+R110
+!i10b 1
+R111
+R122
+R123
+!i113 1
+R14
+R15
+Emux4_1_32bits
+Z124 w1521060283
+R4
+R5
+R6
+Z125 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux4_1_32bits.vhd
+Z126 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux4_1_32bits.vhd
+l0
+L4
+V6d^O7`FCgJG1BW>[2WP>10
+!s100 eC]>Q3Z[89zBLkPeQ2Xj<1
+R9
+32
+Z127 !s110 1526459760
+!i10b 1
+Z128 !s108 1526459760.000000
+Z129 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux4_1_32bits.vhd|
+Z130 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux4_1_32bits.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 13 mux4_1_32bits 0 22 6d^O7`FCgJG1BW>[2WP>10
+l13
+L12
+VPIWRB3OE3iGmK8J?U0zQ=0
+!s100 8bbIj9`VbVePPKl6mXQcJ1
+R9
+32
+R127
+!i10b 1
+R128
+R129
+R130
+!i113 1
+R14
+R15
+Eram_128_32
+Z131 w1527953157
+R3
+R2
+R4
+R5
+R6
+Z132 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_enable.vhd
+Z133 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_enable.vhd
+l0
+L33
+VX;oe?6<Z_SWSAFnP@[eWY3
+!s100 LFW`V^YB9mTN<`?4j@OK=0
+R9
+32
+Z134 !s110 1527953909
+!i10b 1
+Z135 !s108 1527953909.000000
+Z136 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_enable.vhd|
+Z137 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_enable.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R3
+R2
+R4
+R5
+Z138 DEx4 work 10 ram_128_32 0 22 X;oe?6<Z_SWSAFnP@[eWY3
+l63
+L43
+VZ[N24[ADkg6I3DeMQRK4N3
+!s100 cnIef]Wc@I_[QL53Ud0kn0
+R9
+32
+R134
+!i10b 1
+R135
+R136
+R137
+!i113 1
+R14
+R15
+Ereg32
+Z139 w1490265954
+R4
+R5
+R6
+Z140 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg32.vhd
+Z141 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg32.vhd
+l0
+L32
+Vcf]H1V:29^h=K6L<M069Z0
+!s100 <HMai90R3mC^aKcUA9KWa3
+R9
+32
+R127
+!i10b 1
+R128
+Z142 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg32.vhd|
+Z143 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg32.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 reg32 0 22 cf]H1V:29^h=K6L<M069Z0
+l42
+L40
+VJ[W1HBgTgP5n;DfYZgH?h1
+!s100 2oc5;CJQla>1DYNY;i5db3
+R9
+32
+R127
+!i10b 1
+R128
+R142
+R143
+!i113 1
+R14
+R15
+Ereg4
+R51
+R4
+R5
+R6
+Z144 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg4.vhd
+Z145 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg4.vhd
+l0
+L32
+V3hDbhV_A7bzg1>4N9Qz@00
+!s100 l=iL6`mz=n<A[X<zhb>IZ2
+R9
+32
+Z146 !s110 1526459765
+!i10b 1
+R90
+Z147 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg4.vhd|
+Z148 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg4.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 4 reg4 0 22 3hDbhV_A7bzg1>4N9Qz@00
+l42
+L40
+VzA];_Ozm[kd^llT>e0e[M1
+!s100 28Sd8NZiVGG^I>k:J0?W82
+R9
+32
+R146
+!i10b 1
+R90
+R147
+R148
+!i113 1
+R14
+R15
+Ereg7
+R51
+R4
+R5
+R6
+Z149 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg7.vhd
+Z150 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg7.vhd
+l0
+L32
+VY76]M0SAIP1ABKT=KKW1>1
+!s100 ]7?6gJiYK3k@a36j=V3LF0
+R9
+32
+R146
+!i10b 1
+Z151 !s108 1526459765.000000
+Z152 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg7.vhd|
+Z153 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg7.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 4 reg7 0 22 Y76]M0SAIP1ABKT=KKW1>1
+l42
+L40
+Vd_dZ`chTWz1oAMoYnS5Oe2
+!s100 @4J]JNGPUO6oM?:^`ETEV1
+R9
+32
+R146
+!i10b 1
+R151
+R152
+R153
+!i113 1
+R14
+R15
+Etest_md
+Z154 w1526042049
+R4
+R5
+R6
+Z155 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Test_MD.vhd
+Z156 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Test_MD.vhd
+l0
+L31
+VE:naQdYD`P`Hzlf2YabDU0
+!s100 oUC8aoYF:dZA]Pi5Xe<gB3
+R9
+32
+Z157 !s110 1526459766
+!i10b 1
+R151
+Z158 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Test_MD.vhd|
+Z159 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Test_MD.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R4
+R5
+DEx4 work 7 test_md 0 22 E:naQdYD`P`Hzlf2YabDU0
+l71
+L34
+V8:ng_a9<PHRdQ5EYLPo?b2
+!s100 z[LML5bg2=c5@HA4`2K[l2
+R9
+32
+R157
+!i10b 1
+R151
+R158
+R159
+!i113 1
+R14
+R15
+Etestbench
+R139
+R1
+R4
+R5
+R6
+Z160 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_Mips.vhd
+Z161 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_Mips.vhd
+l0
+L7
+V?RXCn9@FP9m8X1o_bn1`P3
+!s100 E5:`7ea_eNYOUE@_LK2MY1
+R9
+32
+R127
+!i10b 1
+R128
+Z162 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_Mips.vhd|
+Z163 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_Mips.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R4
+R5
+DEx4 work 9 testbench 0 22 ?RXCn9@FP9m8X1o_bn1`P3
+l24
+L10
+VcF7aHoN>fY_5Nnm_0UPLk2
+!s100 H`9Dmn2O>^WRDfKCAVlQB0
+R9
+32
+R127
+!i10b 1
+R128
+R162
+R163
+!i113 1
+R14
+R15
+Etestbench_md_mas_mc
+Z164 w1527435011
+R2
+R3
+R1
+R4
+R5
+R6
+Z165 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd
+Z166 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd
+l0
+L10
+Vf>eozkj:AQlP>_Ch0<acj0
+!s100 [NEW8K5Cj:KBaPXgJ9Shg2
+R9
+32
+Z167 !s110 1527435224
+!i10b 1
+Z168 !s108 1527435223.000000
+Z169 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd|
+Z170 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R2
+R3
+R1
+R4
+R5
+DEx4 work 19 testbench_md_mas_mc 0 22 f>eozkj:AQlP>_Ch0<acj0
+l33
+L13
+V^bjE^mF^2?KDA6ho405M33
+!s100 _]zOhCh]=:b0Z5gFfRIWH2
+R9
+32
+R167
+!i10b 1
+R168
+R169
+R170
+!i113 1
+R14
+R15
+Etestfp
+Z171 w1521060272
+R1
+R4
+R5
+R6
+Z172 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/add_Fp_trst.vhd
+Z173 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/add_Fp_trst.vhd
+l0
+L7
+VkPRY17F7CLfD]Y=g;>N1R0
+!s100 PjSclHW3[WbHM@zL9^C173
+R9
+32
+Z174 !s110 1526459754
+!i10b 1
+R11
+Z175 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/add_Fp_trst.vhd|
+Z176 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/add_Fp_trst.vhd|
+!i113 1
+R14
+R15
+Abehavior
+R1
+R4
+R5
+DEx4 work 6 testfp 0 22 kPRY17F7CLfD]Y=g;>N1R0
+l26
+L10
+V1aM^H8ABGH18m0hC0BU=93
+!s100 ?W]6=YLdboQaldF26<YQM0
+R9
+32
+R174
+!i10b 1
+R11
+R175
+R176
+!i113 1
+R14
+R15
+Etwo_bits_shifter
+Z177 w1490265949
+R4
+R5
+R6
+Z178 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/bits_shifter.vhd
+Z179 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/bits_shifter.vhd
+l0
+L32
+V>``KTYRlmPk@4izOeR>SC2
+!s100 deJGV>HE6>8?]PdW4eZi]0
+R9
+32
+R42
+!i10b 1
+R48
+Z180 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/bits_shifter.vhd|
+Z181 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/bits_shifter.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 16 two_bits_shifter 0 22 >``KTYRlmPk@4izOeR>SC2
+l39
+L37
+Vbj_^QdRmenNNW7b;[Wll]1
+!s100 i;0b?lmD0hmf`Rg0aMFK72
+R9
+32
+R42
+!i10b 1
+R48
+R180
+R181
+!i113 1
+R14
+R15
+Eua
+Z182 w1525295845
+R4
+R5
+R6
+Z183 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UA.vhd
+Z184 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UA.vhd
+l0
+L14
+VV_z4L`O58ZG;X[69LGL4d2
+!s100 =56gT7ZTNW1WhkV52E;]M3
+R9
+32
+Z185 !s110 1526459761
+!i10b 1
+Z186 !s108 1526459761.000000
+Z187 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UA.vhd|
+Z188 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UA.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 ua 0 22 V_z4L`O58ZG;X[69LGL4d2
+l29
+L27
+VV0N]I^9>@KNR_=^3k@VTB1
+!s100 [jSV;7[<A=ALcE@aH32EM0
+R9
+32
+R185
+!i10b 1
+R186
+R187
+R188
+!i113 1
+R14
+R15
+Euc
+Z189 w1523820540
+R4
+R5
+R6
+Z190 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_Mips.vhd
+Z191 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_Mips.vhd
+l0
+L32
+V`lbSBnLNWE`^`bZQ9KI6Z0
+!s100 F^SKg:TNDPQB_ZQE2:Xg]3
+R9
+32
+R185
+!i10b 1
+R186
+Z192 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_Mips.vhd|
+Z193 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_Mips.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 uc 0 22 `lbSBnLNWE`^`bZQ9KI6Z0
+l49
+L47
+VCz@mz`4m8m72f8z:d3M]F3
+!s100 fObeAL8V[TU>kkl0>h64A3
+R9
+32
+R185
+!i10b 1
+R186
+R192
+R193
+!i113 1
+R14
+R15
+Euc_mc
+Z194 w1527246442
+R4
+R5
+R6
+Z195 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_MC.vhd
+Z196 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_MC.vhd
+l0
+L32
+VjW;hlCmeV:3@1^=G2iPz`2
+!s100 @Se=XXEYhL5XkZBzM^ZE90
+R9
+32
+Z197 !s110 1527246446
+!i10b 1
+Z198 !s108 1527246445.000000
+Z199 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_MC.vhd|
+Z200 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_MC.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 5 uc_mc 0 22 jW;hlCmeV:3@1^=G2iPz`2
+l73
+L58
+VkI^5mCk6_nUP0EOV<6AY?0
+!s100 `Bl4Jh2]CWZBmcV?o<WmU1
+R9
+32
+R197
+!i10b 1
+R198
+R199
+R200
+!i113 1
+R14
+R15
+Eud
+Z201 w1527505205
+R4
+R5
+R6
+Z202 8C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UD.vhd
+Z203 FC:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UD.vhd
+l0
+L4
+V72M]JcIn5BUWDJNU?^?fb3
+!s100 QiGPJ]f3?V[nH;0A9nOhN0
+R9
+32
+Z204 !s110 1527505706
+!i10b 1
+Z205 !s108 1527505705.000000
+Z206 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UD.vhd|
+Z207 !s107 C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UD.vhd|
+!i113 1
+R14
+R15
+Abehavioral
+R4
+R5
+DEx4 work 2 ud 0 22 72M]JcIn5BUWDJNU?^?fb3
+l24
+L22
+V429H^>bbPjZ;Hm5k3zU:52
+!s100 <a<n5[J93X?8mgA2B9QPA2
+R9
+32
+R204
+!i10b 1
+R205
+R206
+R207
+!i113 1
+R14
+R15

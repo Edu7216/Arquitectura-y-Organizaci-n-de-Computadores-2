@@ -1,0 +1,311 @@
+C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg7.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg7.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg7
+-- Compiling architecture Behavioral of reg7
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/adder32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/adder32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity adder32
+-- Compiling architecture Behavioral of adder32
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UA.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UA.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UA
+-- Compiling architecture Behavioral of UA
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_MC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_MC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UC_MC
+-- Compiling architecture Behavioral of UC_MC
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_EX.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_EX.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_EX
+-- Compiling architecture Behavioral of Banco_EX
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_ID.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_ID.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_ID
+-- Compiling architecture Behavioral of Banco_ID
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_mas_MC.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_mas_MC.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MD_mas_MC
+-- Compiling architecture Behavioral of MD_mas_MC
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Mips_segmentado_2018.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Mips_segmentado_2018.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity MIPs_segmentado
+-- Compiling architecture Behavioral of MIPs_segmentado
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UD.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UD.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UD
+-- Compiling architecture Behavioral of UD
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_5bits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_5bits.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_5bits
+-- Compiling architecture Behavioral of mux2_5bits
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/add_Fp_trst.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/add_Fp_trst.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testfp
+-- Compiling architecture behavior of testfp
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter_2bits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter_2bits.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity counter_2bits
+-- Compiling architecture Behavioral of counter_2bits
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1_1bit.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1_1bit.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_1_1bit
+-- Compiling architecture Behavioral of mux2_1_1bit
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_cont.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MD_cont.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MD_cont
+-- Compiling architecture Behavioral of MD_cont
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux4_1_32bits.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux4_1_32bits.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux4_1_32bits
+-- Compiling architecture Behavioral of mux4_1_32bits
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd {2 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity testbench_MD_mas_MC
+-- Compiling architecture behavior of testbench_MD_mas_MC
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(59): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(65): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(74): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(78): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(89): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(97): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(105): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(113): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(121): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(129): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(137): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(145): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(153): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(161): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_MD_mas_MC_alumnos.vhd(169): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/bits_shifter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/bits_shifter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity two_bits_shifter
+-- Compiling architecture Behavioral of two_bits_shifter
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/fpadd.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/fpadd.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity FPP_ADD_SUB
+-- Compiling architecture Arch of FPP_ADD_SUB
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_enable.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_enable.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity RAM_128_32
+-- Compiling architecture Behavioral of RAM_128_32
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Test_MD.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Test_MD.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Test_MD
+-- Compiling architecture behavior of Test_MD
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/counter.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity counter
+-- Compiling architecture Behavioral of counter
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_Mips.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/UC_Mips.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity UC
+-- Compiling architecture Behavioral of UC
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_Mips.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/testbench_Mips.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity testbench
+-- Compiling architecture behavior of testbench
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/BReg.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/BReg.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity BReg
+-- Compiling architecture Behavioral of BReg
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Ext_signo.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Ext_signo.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Ext_signo
+-- Compiling architecture Behavioral of Ext_signo
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_MEM.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_MEM.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_MEM
+-- Compiling architecture Behavioral of Banco_MEM
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_I.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/memoriaRAM_I.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity memoriaRAM_I
+-- Compiling architecture Behavioral of memoriaRAM_I
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg4.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg4.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg4
+-- Compiling architecture Behavioral of reg4
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MC_datos.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/MC_datos.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Compiling entity MC_datos
+-- Compiling architecture Behavioral of MC_datos
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/ALU.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/ALU.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package std_logic_arith
+-- Loading package STD_LOGIC_UNSIGNED
+-- Loading package NUMERIC_STD
+-- Compiling entity ALU
+-- Compiling architecture Behavioral of ALU
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg32.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/reg32.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg32
+-- Compiling architecture Behavioral of reg32
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_WB.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/Banco_WB.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Banco_WB
+-- Compiling architecture Behavioral of Banco_WB
+
+} {} {}} C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/eduar_000/Desktop/AOC2/proyecto/ProyectoP2/mux2_1.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mux2_1
+-- Compiling architecture Behavioral of mux2_1
+
+} {} {}}
